@@ -1,2 +1,2 @@
 # Password-Generator-Application
-A Python application to create a simple Password Generator with GUI 
+A Python application which generates random passwords with interactive GUI
